@@ -35,6 +35,10 @@ img {
 .main-nav ul li {
   flex: 1;
   text-align: center;
+  
+}
+.main-nav ul li:hover{
+  background-color: grey;
 }
 
 .main-nav ul li a {
